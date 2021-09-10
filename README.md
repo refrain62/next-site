@@ -1,5 +1,7 @@
-yarn create next-app
-->What is your project named? ... next-site
+https://tomosta.jp/article/nextjs-basic/#ib-toc-anchor-26 の写経  
+
+yarn create next-app  
+->What is your project named? ... next-site  
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
